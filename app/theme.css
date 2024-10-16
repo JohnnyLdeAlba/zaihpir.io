@@ -6,8 +6,12 @@
   border: 1px solid #000000;
 }
 
+.enigma_border_color_2 {
+  border: 1px solid #9799d6;
+}
+
 .enigma_bg_color_1 {
-  background-color: #12152c;
+  background-color: #242747;
 }
 
 .enigma_bg_color_2 {
